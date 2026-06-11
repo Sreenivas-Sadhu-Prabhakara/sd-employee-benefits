@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-employee-benefits
+description: "BIAN Service Domain: Employee Benefits (Administer pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Human Resources"
+  bian/asset-type: "Benefit Enrollment"
+  bian/control-record: "Benefit Enrollment Administrative Plan"
